@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaya176)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaya176)](https://github.com/anuraghazra/github-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={kaya-dev}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={kaya-dev})](https://github.com/loosie/github-readme-tistory-card)
 <!--
 **Kaya176/Kaya176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
